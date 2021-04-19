@@ -1,0 +1,42 @@
+[{
+   "id":0,
+   "title":"Todoroki Raichi",
+   "url":"https://i.pinimg.com/originals/b0/68/3f/b0683fec543edb9d2eb33f11f227f462.jpg",
+   "description":"Todoroki Raichi is a second year student at Yakushi High School. He is the third baseman of the Yakushi High School baseball team, and the team's unparalleled fourth batter. He also takes up an alternate position as a pitcher later."
+
+},
+{
+    "id":1,
+    "title":"Monkey D. Luffy",
+    "url":"https://i.pinimg.com/originals/85/b4/06/85b4066060120a0ee602815af9da2d0d.jpg",
+    "description":"Monkey D. Luffy, also known as Straw Hat Luffy and commonly as Straw Hat,[7] is the main protagonist of the manga and anime, One Piece. He is the founder and captain of the increasingly infamous and powerful Straw Hat Pirates, as well as one of its top fighters."
+ 
+ },
+ {
+    "id":2,
+    "title":"Sakata Gintoki",
+    "url":"https://images2.alphacoders.com/946/946097.png",
+    "description":"Gintoki Sakata (坂田 銀時, Sakata Gintoki) is the main protagonist of the Gintama series. He is the founder and president of the Yorozuya, as well as a highly-skilled samurai, having fought in the Joui War in the past."
+ 
+ },
+ {
+    "id":3,
+    "title":"Shanks",
+    "url":"https://wallpapercave.com/wp/gweUfAV.jpg",
+    "description":"Red-Haired Shanks,[9] commonly known as just Red Hair,[11] is the chief[5] of the Red Hair Pirates[2] and one of the Four Emperors that rule over the New World"
+ 
+ },
+ {
+    "id":4,
+    "title":"Light Yagami",
+    "url":"https://a1cf74336522e87f135f-2f21ace9a6cf0052456644b80fa06d4f.ssl.cf2.rackcdn.com/images/characters_opt/p-death-note-light.jpg",
+    "description":"Light Yagami is the main protagonist of the manga series Death Note, created by Tsugumi Ohba and Takeshi Obata."
+ 
+ },
+ {
+    "id":5,
+    "title":"Naruto",
+    "url":"https://www.pngitem.com/pimgs/m/418-4181169_thumb-image-naruto-jpg-hd-png-download.png",
+    "description":"Naruto is a Japanese manga series written and illustrated by Masashi Kishimoto. It tells the story of Naruto Uzumaki, a young ninja who seeks recognition from his peers and dreams of becoming the Hokage, the leader of his village."
+ 
+ }]
